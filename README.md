@@ -33,7 +33,7 @@ Feature Selection - Used User-ID,ISBN and Books-Rating for model development.
 
 Model development - Tried Popularity based model and Collaborative filtering (Both Memory based and Model based).
 
-#Needs of this project 
+# Needs of this project 
 
 data exploration 
 
